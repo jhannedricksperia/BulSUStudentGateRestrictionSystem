@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "658794840859",
+    "firebase_url": "https://gatemanagementsystem-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gatemanagementsystem",
+    "storage_bucket": "gatemanagementsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658794840859:android:095cd3de2308c5ca24c9be",
+        "android_client_info": {
+          "package_name": "com.example.gatemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iMEdOts7yHfcf0Ws1qFAZuRER2bsHvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658794840859:android:02e44cf9004d327f24c9be",
+        "android_client_info": {
+          "package_name": "com.example.studentgaterestrictionsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iMEdOts7yHfcf0Ws1qFAZuRER2bsHvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -9,7 +9,7 @@ Key Goal
 
 Development Team
 
-Web Developer: John Mark V. Espineda
-Mobile Developer: Jhann Edrick S. Peria
-Quality Tester: Elohim Lee L. Manzano
+- Web Developer: John Mark V. Espineda
+- Mobile Developer: Jhann Edrick S. Peria
+- Quality Tester: Elohim Lee L. Manzano
 
